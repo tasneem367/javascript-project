@@ -1,0 +1,37 @@
+
+.box2{
+    display: flex;
+    background-color: antiquewhite;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+#area1{
+    margin-top: 20px;
+    width: 90%;
+}
+
+#but{
+    margin-bottom: 20px;
+    padding: 5px 40px;
+    font-size: 20px;
+    font-weight: bold;
+}
+#but:hover{
+    color: yellow;
+}
+
+table,th,td{
+    border: 1px solid black;
+    border-collapse: collapse;
+    text-align: center;
+}
+
+table{
+    width: 100%;
+}
+
+#colw{
+    width: 50%;
+}
